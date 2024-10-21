@@ -1,0 +1,16 @@
+Date : 20/1/2020
+
+Release notes :
+
+1- relate calls to property and request in `add` status to view calls related in calls tab for each.
+
+2- add [call update , share whats app , click on phone , send mail] to activity log.
+
+3- notify the sales for request (related,Unrelated) and show count of sales requests in notifications .
+
+4- show `adds number` in importer data for every row in table.
+
+
+
+
+-----------------------------------------------------------------------------------------------
